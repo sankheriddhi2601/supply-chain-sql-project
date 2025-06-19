@@ -21,8 +21,3 @@ I used this project to learn and apply key SQL concepts like:
 - Overstocked items (slow movers)
 - Average delivery time by supplier
 - Monthly revenue trends
-
-## 📁 Files
-- `schema.sql`: SQL scripts to create all tables
-- `sample_data.sql`: Sample `INSERT` statements
-- `analysis_queries.sql`: SQL queries for business analysis
